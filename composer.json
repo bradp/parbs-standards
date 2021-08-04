@@ -1,5 +1,5 @@
 {
-	"name": "bradp/wp-coding-standards-modified",
+	"name": "bradp/parbs-standards",
 	"type": "phpcodesniffer-standard",
 	"description": "WordPress Coding standards, modified by Parbs.",
 	"keywords": [
