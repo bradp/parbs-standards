@@ -16,5 +16,7 @@
 		"phpcsstandards/phpcsutils": "^1.0.0-alpha3",
 		"squizlabs/php_codesniffer": "^3.6",
 		"wp-coding-standards/wpcs": "^2.3"
-	}
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
 }
